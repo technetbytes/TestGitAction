@@ -1,1 +1,1 @@
-console.log("this is frontend page")
+console.log("this is frontend page 2")
